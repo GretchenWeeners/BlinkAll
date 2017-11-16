@@ -1,0 +1,5 @@
+[Autorun]
+Open=BlinkALL.exe
+Action=BlinkAll
+Label=BlinkAll
+Icon=BlinkAll.exe
